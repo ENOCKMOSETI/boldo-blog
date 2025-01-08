@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground: #ffffff;
+  --background: #171717;
+  --font-open-sans: 'Open Sans', sans-serif;
+  --font-manrope: 'Manrope', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground: #0a0a0a;
+    --background: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-open-sans);
+}
+
+.font-open-sans {
+  font-family: var(--font-open-sans);
+}
+
+.font-manrope {
+  font-family: var(--font-manrope);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}

@@ -1,0 +1,64 @@
+{
+    "blogs": [
+        {
+            "id": "blog1",
+            "title": "Pitch termsheet backing validation focus release.",
+            "author": "Chandler Bing",
+            "date": "November 22, 2021",
+            "image": {
+                "svg": "image1.svg",
+                "author": "author1.svg"
+            }
+        },
+        {
+            "id": "blog2",
+            "title": "Seed round direct mailing non-disclosure agreement graphical user interface rockstar.",
+            "author": "Rachel Green",
+            "date": "November 22, 2021",
+            "image": {
+                "svg": "image2.svg",
+                "author": "author2.svg"
+            }
+        },
+        {
+            "id": "blog3",
+            "title": "Beta prototype sales iPad gen-z marketing network effects value proposition",
+            "author": "Monica Geller",
+            "date": "November 22, 2021",
+            "image": {
+                "svg": "image3.svg",
+                "author": "author3.svg"
+            }
+        },
+        {
+            "id": "blog4",
+            "title": "Pitch termsheet backing validation focus release.",
+            "author": "Chandler Bing",
+            "date": "November 22, 2021",
+            "image": {
+                "svg": "image4.svg",
+                "author": "author1.svg"
+            }
+        },
+        {
+            "id": "blog5",
+            "title": "Seed round direct mailing non-disclosure agreement graphical user interface rockstar.",
+            "author": "Rachel Green",
+            "date": "November 22, 2021",
+            "image": {
+                "svg": "image5.svg",
+                "author": "author2.svg" 
+            }
+        },
+        {
+            "id": "blog6",
+            "title": "Beta prototype sales iPad gen-z marketing network effects value proposition",
+            "author": "Monica Geller",
+            "date": "November 22, 2021",
+            "image": {
+                "svg": "image6.svg", 
+                "author": "author3.svg"
+            }
+        }
+    ]
+}
