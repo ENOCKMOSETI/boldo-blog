@@ -6,7 +6,7 @@ export default function News() {
 
   useEffect(() => {
     async function fetchBlogs() {
-      const res = await fetch("http://localhost:3000/data.json");
+      const res = await fetch("https://boldo-b.vercel.app/data.json");
       const data = await res.json();
       setBlogs(data.blogs);
     }
